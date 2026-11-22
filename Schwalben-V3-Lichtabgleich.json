@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-22",
+  "tool": "image_gen (built-in)",
+  "references": [
+    "assets/SP-01.png",
+    "assets/AD-01.png"
+  ],
+  "scope": "Nur Schwalben: wärmeres Licht, dezent reduzierte gleichmäßige Aufhellung, natürliche Kontakt- und Eckschatten bei erhaltenem V3-Design.",
+  "images": [
+    {
+      "id": "SW-01",
+      "prompt": "Use case lighting-weather, careful lighting-only edit of IMAGE 1 SW-01. Images 2 SP-01 and 3 AD-01 are authoritative references for warmer everyday interior illumination and natural shadow contrast. Keep the selected V3 furniture design EXACTLY.\nRelight SW-01 to belong to the same photographic series: subtly warm soft white light similar to references, around 3200–3500K appearance, rather than cold/sterile white. Lower overly uniform ambient fill and exposure modestly (about 0.2–0.3 stop, NOT a gloomy dark basement). Make light originate plausibly from existing visible fixtures, without adding fixtures or bright fake wall cones. Restore natural soft ambient occlusion and contact shadows at wall-ceiling junctions, under the low lounge soffit, behind cabinets, underneath sofas/armchair/coffee table, around legs on floor, and behind screen; localized realistic depth, not black outlines or a heavy vignette. Preserve readable shadow detail. Keep pale walls gently warm-white, NOT yellow/orange; retain all pastel V3 material colors and pale ash, natural color rendering. The projector housing and cable channel should stay matte and softly shaded, not luminous. Lights retain highlight detail.\nABSOLUTE preservation: same camera/crop, all geometry, exact projector/cage position/size, ceiling and duct, both crosses including birch-log cross, projection screen, exact wall lettering, all furniture design/placement and cupboard front color order (off-white/mint/dusty blue), peach sofa, blue sofa, mint armchair, table, correct carpet boundary, floor. Change ONLY illumination/tonal rendering; no redesign."
+    },
+    {
+      "id": "SW-02",
+      "prompt": "Lighting-only architectural photo edit. IMAGE 1 edit target SW-02 with selected V3 furniture. IMAGE 2 SP-01 and IMAGE 3 AD-01 define the warmer, naturally shaded lighting of adjacent rooms. Bring SW-02 into that same lighting family. Replace sterile cool white with soft subtly warm-white illumination around 3200–3500K appearance. Reduce excessive even ambient fill modestly, about 0.2–0.3 stop lower exposure, retaining a comfortable normally illuminated room rather than dark or dramatic. Existing ceiling fixtures supply practical light plus modest window daylight; don't add fixtures or sunny streaks. Add subtle physically plausible ambient occlusion/contact shadows at ceiling-wall junctions and recess, under cupboard edges and along plinths, under tables and seats, behind furniture, around chair legs and at floor contact. Soft localized shadows and depth, NOT dark outlines, harsh contrast or vignette. Pale walls/ceiling remain warm off-white, not yellow; maintain natural rendering of mint, dusty blue, peach and pale ash. Cable channel and projector cage matte and understated, NOT glowing. Light fixtures preserve highlights.\nPreserve EVERY object and geometry exactly: projector/cage OPEN FRONT and small lens at left over door, exact dimensions/position, cable upturn and ceiling recess, wooden door, clock, full cupboard-wall configuration and V3 color order, all exact noticeboard content/text, windows, lightweight V3 chairs/tables and their current placements, correct tiny far-left carpet triangle and pale wipeable foreground, camera and crop. Change lighting/tonality ONLY; no furniture or architecture redesign."
+    }
+  ]
+}
