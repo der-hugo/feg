@@ -18,3 +18,7 @@ Kein Build und kein Serverprogramm erforderlich. Keine Anmeldung, keine Kommenta
 Die Bilder sind Gestaltungsentwürfe, keine maßstäbliche Ausführungsplanung oder Lichtberechnung. Einzelne Details können zwischen den Ansichten abweichen. Die finale Bildserie für PowerPoint folgt nach der Abstimmung.
 
 `Bildbriefings.json` enthält die verwendeten Bildbriefings zur späteren Überarbeitung.
+
+## Gemeinsame Holzlinie der Gruppenräume
+
+In Adler, Spatzen und Schwalben erhalten Tische, hölzerne Stuhlgestelle, weitere Möbelholzflächen, Pinnwandrahmen und Sockelleisten denselben hellen Naturholzton. Farbige Polster und lackierte Fronten bleiben erhalten. Vorhandene Türen und Zargen bleiben vorerst als braune Ausnahme bestehen. Durchblicke aus anderen Räumen müssen dieselbe Möbelfarbe zeigen.
